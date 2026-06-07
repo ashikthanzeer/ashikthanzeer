@@ -147,11 +147,7 @@ commit c1a5f63  feat: personal & group expense manager
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashikthanzeer&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_radius=10"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikthanzeer&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=10"/>
 
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=ashikthanzeer&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=7ec8e3&dates=7ec8e3&border_radius=10"/>
 

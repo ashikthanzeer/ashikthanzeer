@@ -10,6 +10,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ashikthanzeer.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashikthanzeer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashikthanzeer)
 [![GitHub](https://img.shields.io/badge/GitHub-ashikthanzeer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashikthanzeer)
 [![Email](https://img.shields.io/badge/Email-ashikthanzeer6@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ashikthanzeer6@outlook.com)

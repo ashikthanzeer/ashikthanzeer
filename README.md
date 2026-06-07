@@ -1,9 +1,11 @@
 <div align="center">
 
-<!-- WAVE + INSTANT NAME — capsule-render static SVG, Press Start 2P pixel font -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000010,30:000d2e,70:001a4d,100:000010&height=220&section=header&text=ASHIK+MUHAMMED+T&fontSize=32&fontColor=00D4FF&fontFamily=Press+Start+2P&fontAlignY=55&desc=CSE+%40+CET+%7C+Data+Science+%40+IIT+Madras&descSize=13&descColor=7EC8E3&descAlignY=75&animation=fadeIn" width="100%"/>
+<!-- header.svg must be in the root of your ashikthanzeer/ashikthanzeer repo -->
+<img src="header.svg" width="100%" alt="Ashik Muhammed T"/>
 
-<!-- ROLE cycling tagline -->
+<br/>
+
+<!-- Cycling tagline -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=700&color=7EC8E3&center=true&vCenter=true&repeat=true&width=640&height=42&lines=B.Tech+CSE+%40+CET+%7C+CGPA%3A+9.42;BS+Data+Science+%40+IIT+Madras+%7C+CGPA%3A+8.83;Building+projects+%26+learning+every+day+%F0%9F%9A%80;Kerala+%E2%86%92+Trivandrum+%7C+Coding+%26+Coffee+%E2%98%95" alt="Roles"/>
 
 <br/>
@@ -78,7 +80,7 @@ class AshikMuhammedT:
 ## `$ git log --oneline ./projects/`
 
 <details>
-<summary><b>📌 StudyPlanner &nbsp;·&nbsp; <code>HTML · CSS · JavaScript · Python · MySQL</code></b></summary>
+<summary><b>📌 StudyPlanner &nbsp;·&nbsp; <code>React · Vite · TypeScript · Express.js · PostgreSQL</code></b></summary>
 <br/>
 
 ```

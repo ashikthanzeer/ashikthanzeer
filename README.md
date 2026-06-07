@@ -1,19 +1,16 @@
 <div align="center">
 
-<!-- ANIMATED HEADER — stable waving type, no venom glitch -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:0d1f3c,70:0a2a5e,100:001133&height=220&section=header&fontSize=1&animation=fadeIn" width="100%"/>
-
-<!-- NAME as typing SVG — JetBrains Mono, large, cyan, centered -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&pause=99999&color=00D4FF&center=true&vCenter=true&repeat=false&width=700&height=80&lines=ASHIK+MUHAMMED+T" alt="Name" />
+<!-- WAVE + INSTANT NAME — capsule-render static SVG, Press Start 2P pixel font -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000010,30:000d2e,70:001a4d,100:000010&height=220&section=header&text=ASHIK+MUHAMMED+T&fontSize=32&fontColor=00D4FF&fontFamily=Press+Start+2P&fontAlignY=55&desc=CSE+%40+CET+%7C+Data+Science+%40+IIT+Madras&descSize=13&descColor=7EC8E3&descAlignY=75&animation=fadeIn" width="100%"/>
 
 <!-- ROLE cycling tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=700&color=7EC8E3&center=true&vCenter=true&repeat=true&width=620&height=45&lines=B.Tech+CSE+%40+CET+%7C+CGPA%3A+9.42;BS+Data+Science+%40+IIT+Madras+%7C+CGPA%3A+8.83;Full-Stack+Developer+%F0%9F%9A%80;Data+Science+Enthusiast+%F0%9F%A7%AC;Problem+Solver+%F0%9F%A7%A0;Builder+of+Things+that+Matter+%E2%9A%A1" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=700&color=7EC8E3&center=true&vCenter=true&repeat=true&width=640&height=42&lines=B.Tech+CSE+%40+CET+%7C+CGPA%3A+9.42;BS+Data+Science+%40+IIT+Madras+%7C+CGPA%3A+8.83;Building+projects+%26+learning+every+day+%F0%9F%9A%80;Kerala+%E2%86%92+Trivandrum+%7C+Coding+%26+Coffee+%E2%98%95" alt="Roles"/>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashikthanzeer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashikthanzeer)
 [![GitHub](https://img.shields.io/badge/GitHub-ashikthanzeer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashikthanzeer)
-[![Email](https://img.shields.io/badge/Email-ashikthanzeer6%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ashikthanzeer6@outlook.com)
+[![Email](https://img.shields.io/badge/Email-ashikthanzeer6@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ashikthanzeer6@outlook.com)
 [![Visitors](https://komarev.com/ghpvc/?username=ashikthanzeer&color=00d4ff&style=for-the-badge&label=VISITORS)](https://github.com/ashikthanzeer)
 
 </div>
@@ -25,16 +22,22 @@
 ```python
 class AshikMuhammedT:
     name      = "Ashik Muhammed T"
+    phone     = "+91 98955 26880"
     location  = "Kerala, India 🇮🇳"
-    education = {
-        "B.Tech CSE"       : {"college": "CET Trivandrum",  "cgpa": 9.42},
-        "BS Data Science"  : {"college": "IIT Madras",      "cgpa": 8.83},
-    }
-    interests = ["Full-Stack Dev", "Data Science", "Open Source", "Problem Solving"]
-    fun_fact  = "Juggling two degrees simultaneously 💀☕"
 
-    def contact(self):
-        return "ashikthanzeer6@outlook.com | +91 98955 26880"
+    education = {
+        "B.Tech CSE"      : {"college": "CET, Trivandrum", "cgpa": 9.42, "since": "Aug 2025"},
+        "BS Data Science" : {"college": "IIT Madras",      "cgpa": 8.83, "since": "Sep 2025"},
+    }
+
+    interests = [
+        "Web Development",
+        "Data Science & Applications",
+        "Problem Solving",
+        "Open Source",
+    ]
+
+    currently = "Learning, building, and figuring things out one bug at a time 🐛"
 ```
 
 ---
@@ -62,6 +65,12 @@ class AshikMuhammedT:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+**Core CS Concepts**
+
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-00897B?style=for-the-badge)
+![OOP](https://img.shields.io/badge/Object_Oriented_Programming-6A0DAD?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF6B35?style=for-the-badge)
+
 </div>
 
 ---
@@ -69,15 +78,15 @@ class AshikMuhammedT:
 ## `$ git log --oneline ./projects/`
 
 <details>
-<summary><b>📌 StudyPlanner &nbsp;·&nbsp; <code>HTML · CSS · JS · Python · MySQL</code></b></summary>
+<summary><b>📌 StudyPlanner &nbsp;·&nbsp; <code>HTML · CSS · JavaScript · Python · MySQL</code></b></summary>
 <br/>
 
 ```
 commit a3f9c21  feat: student productivity platform
 ├── ✅ Pomodoro timer with custom session lengths
 ├── ✅ Streak tracking & deadline reminders
-├── ✅ Push notification support
-└── ✅ Web + Android apps on shared backend database
+├── ✅ Notification support
+└── ✅ Web + Android apps connected to shared backend database
 ```
 
 > 🎯 A comprehensive platform for task management, study planning, and progress tracking.
@@ -85,29 +94,29 @@ commit a3f9c21  feat: student productivity platform
 </details>
 
 <details>
-<summary><b>📌 ScoreFusion &nbsp;·&nbsp; <code>Python · MySQL · HTML · CSS · JS</code></b></summary>
+<summary><b>📌 ScoreFusion &nbsp;·&nbsp; <code>HTML · CSS · JavaScript</code></b></summary>
 <br/>
 
 ```
 commit b7d2e84  feat: JEE Main & KEAM score calculator
 ├── ✅ Computes marks directly from response sheets
-├── ✅ Automated calculation & result analysis
+├── ✅ Automated score calculation & result analysis
 └── ✅ Intuitive UI for uploading data and viewing scores
 ```
 
-> 🎯 Eliminates manual effort in score checking for JEE Main and KEAM candidates.
+> 🎯 Reduces manual effort in score checking for JEE Main and KEAM candidates.
 
 </details>
 
 <details>
-<summary><b>📌 Expense Tracker &nbsp;·&nbsp; <code>Python · MySQL · HTML · CSS · JS</code></b></summary>
+<summary><b>📌 Expense Tracker &nbsp;·&nbsp; <code>HTML · CSS · JavaScript</code></b></summary>
 <br/>
 
 ```
-commit c1a5f63  feat: group expense manager
+commit c1a5f63  feat: personal & group expense manager
 ├── ✅ Trip expense sharing & auto bill-splitting
-├── ✅ Real-time dashboards for spending patterns
-└── ✅ Multi-participant group management
+├── ✅ Dashboards for monitoring spending patterns
+└── ✅ Multi-participant group expense management
 ```
 
 > 🎯 Makes splitting bills and tracking shared expenses effortless.
@@ -120,8 +129,8 @@ commit c1a5f63  feat: group expense manager
 
 <div align="center">
 
-| 🏆 Exam | 📊 Result |
-|:--------|:---------|
+| 🏆 Exam | 📊 Score / Rank |
+|:--------|:---------------|
 | AISSCE 2025 | **487 / 500 — 97.4%** |
 | JEE Main 2025 | **96.815 Percentile** |
 | JEE Advanced 2025 | **OBC-NCL Rank 8078** |
@@ -154,9 +163,10 @@ commit c1a5f63  feat: group expense manager
 
 ```
 PING ashik.dev (ashikthanzeer6@outlook.com) — ttl=∞
+
 > Open to internships & collaborations
-> Excited about full-stack & data science projects  
-> Loves solving real-world problems
+> Interested in web dev and data science projects
+> Still learning, always curious
 > Response time: < 24 hours ⚡
 
 4 packets transmitted | 4 received | 0% packet loss
@@ -164,10 +174,10 @@ PING ashik.dev (ashikthanzeer6@outlook.com) — ttl=∞
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=00D4FF&center=true&vCenter=true&width=520&height=40&lines=%22Build+things.+Break+things.+Learn+things.%22;%22Code+is+thinking+made+visible.%22;%22Every+bug+is+a+lesson+in+disguise.%22" alt="Quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=00D4FF&center=true&vCenter=true&width=520&height=40&lines=%22Build+things.+Break+things.+Learn+things.%22;%22Every+bug+is+a+lesson+in+disguise.%22;%22Two+degrees%2C+one+keyboard.+Let%27s+go.%22" alt="Quote"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001133,50:0a2a5e,100:0a0a1a&height=130&section=footer&text=Let%27s+Build+Something+Cool&fontSize=20&fontColor=00d4ff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000010,50:001a4d,100:000010&height=130&section=footer&text=Let%27s+build+something+cool&fontSize=18&fontColor=00d4ff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>

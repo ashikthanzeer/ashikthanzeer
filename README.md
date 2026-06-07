@@ -150,7 +150,7 @@ commit c1a5f63  feat: personal & group expense manager
 
 <div align="center">
 
-| EXAM | SCORE / RANK | PERCENTILE |
+| EXAM | SCORE / RANK | PERCENT(AGE/TILE) |
 |:-----|:------------|:-----------|
 | 🎓 AISSCE 2025 | **487 / 500** | **97.4%** |
 | 📐 JEE Main 2025 | — | **96.815 Percentile** |

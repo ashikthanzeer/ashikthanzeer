@@ -196,11 +196,7 @@ rtt min/avg/max = always/available/to connect
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&height=40&lines=%22Code+is+not+just+syntax+—+it's+thinking.%22;%22Every+bug+is+a+lesson+in+disguise.%22;%22Build+things.+Break+things.+Learn+things.%22" alt="Quote" />
-
 </div>
-
-<br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0d1b4b,100:000000&height=130&section=footer&text=Let's%20Build%20Something%20Cool&fontSize=20&fontColor=00d4ff&fontAlignY=65&animation=fadeIn" width="100%"/>

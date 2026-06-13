@@ -29,7 +29,7 @@ class AshikMuhammedT:
     location  = "Kerala, India 🇮🇳"
 
     education = {
-        "B.Tech CSE"      : {"college": "CET, Trivandrum", "cgpa": 9.42, "since": "Aug 2025"},
+        "B.Tech CSE"      : {"college": "CET, Trivandrum", "cgpa": 9.79, "since": "Aug 2025"},
         "BS Data Science" : {"college": "IIT Madras",      "cgpa": 8.83, "since": "Sep 2025"},
     }
 

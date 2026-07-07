@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Cycling tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=700&color=7EC8E3&center=true&vCenter=true&repeat=true&width=640&height=42&lines=B.Tech+CSE+%40+CET+%7C+CGPA%3A+9.79;BS+Data+Science+%40+IIT+Madras+%7C+CGPA%3A+8.83;Building+projects+%26+learning+every+day+%F0%9F%9A%80" alt="Roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=700&color=7EC8E3&center=true&vCenter=true&repeat=true&width=640&height=42&lines=B.Tech+CSE+%40+CET+%7C+CGPA%3A+9.66;BS+Data+Science+%40+IIT+Madras+%7C+CGPA%3A+8.83;Building+projects+%26+learning+every+day+%F0%9F%9A%80" alt="Roles"/>
 
 <br/>
 
@@ -27,7 +27,7 @@ class AshikMuhammedT:
     location  = "Kerala, India 🇮🇳"
 
     education = {
-        "B.Tech CSE"      : {"college": "CET, Trivandrum", "cgpa": 9.79, "since": "Aug 2025"},
+        "B.Tech CSE"      : {"college": "CET, Trivandrum", "cgpa": 9.66, "since": "Aug 2025"},
         "BS Data Science" : {"college": "IIT Madras",      "cgpa": 8.83, "since": "Sep 2025"},
     }
 

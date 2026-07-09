@@ -136,7 +136,6 @@ commit c1a5f63  feat: personal & group expense manager
 | JEE Main 2025 | **96.815 Percentile** |
 | JEE Advanced 2025 | **OBC-NCL Rank 8078** |
 | KEAM 2025 | **Rank 433** |
-| CUSAT CAT 2025 | **Rank 335** |
 
 </div>
 

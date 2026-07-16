@@ -79,6 +79,22 @@ class AshikMuhammedT:
 ## `$ git log --oneline ./projects/`
 
 <details>
+<summary><b>📌 KEAM Monitor &nbsp;·&nbsp; <code>Python · Requests · BeautifulSoup · Telegram · GCP</code></b></summary>
+<br/>
+
+```
+commit b7d42f8  feat: KEAM Monitor cloud deployment
+├── ✅ Real-time KEAM website change detection
+├── ✅ Interactive Telegram bot with multi-user subscriptions
+├── ✅ Intelligent notifications with state persistence
+└── ✅ 24/7 deployment on Google Cloud VM using systemd services & timers
+```
+
+> 🎯 A production-ready cloud service that continuously monitors the KEAM allotment portal and delivers instant Telegram notifications to subscribed users.
+
+</details>
+
+<details>
 <summary><b>📌 StudyPlanner &nbsp;·&nbsp; <code>React · Vite · TypeScript · Express.js · PostgreSQL</code></b></summary>
 <br/>
 

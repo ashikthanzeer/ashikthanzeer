@@ -51,12 +51,13 @@ class AshikMuhammedT:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Web & Database**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools & Environment**
@@ -77,6 +78,23 @@ class AshikMuhammedT:
 ---
 
 ## `$ git log --oneline ./projects/`
+
+<details>
+<summary><b>📌 CivicGrid &nbsp;·&nbsp; <code>Python · FastAPI · React · PostgreSQL · Gemini · Docker</code></b></summary>
+<br/>
+
+```text
+commit xxxxxxx  feat: AI-assisted municipal grievance platform
+├── ✅ AI-powered grievance classification and department routing
+├── ✅ End-to-end grievance lifecycle with SLA & resolution tracking
+├── ✅ Citizen & officer portals with role-based access control
+└── ✅ Resolution proof, citizen verification & complete audit trail
+```
+
+> 🎯 An AI-assisted civic-tech platform that connects citizens and municipal officers through a transparent, accountable grievance resolution lifecycle — from complaint registration and intelligent routing to officer resolution and citizen verification.
+
+</details>
+
 
 <details>
 <summary><b>📌 KEAM Monitor &nbsp;·&nbsp; <code>Python · Requests · BeautifulSoup · Telegram · GCP</code></b></summary>

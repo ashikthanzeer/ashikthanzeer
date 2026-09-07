@@ -160,21 +160,6 @@ commit c1a5f63  feat: personal & group expense manager
 
 ---
 
-## `$ cat achievements.log`
-
-<div align="center">
-
-| 🏆 Exam | 📊 Score / Rank |
-|:--------|:---------------|
-| AISSCE 2025 | **487 / 500 — 97.4%** |
-| JEE Main 2025 | **96.815 Percentile** |
-| JEE Advanced 2025 | **OBC-NCL Rank 8078** |
-| KEAM 2025 | **Rank 433** |
-
-</div>
-
----
-
 ## `$ htop --user=ashikthanzeer`
 
 <div align="center">

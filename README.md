@@ -31,6 +31,10 @@ class AshikMuhammedT:
         "BS Data Science" : {"college": "IIT Madras",      "cgpa": 8.83, "since": "Sep 2025"},
     }
 
+    experience = {
+        "Front-end AI Engineering Intern" : {"company": "FlyRank AI", "since": "Sept 2026"}
+    }
+
     interests = [
         "Web Development",
         "Data Science & Applications",
@@ -80,11 +84,28 @@ class AshikMuhammedT:
 ## `$ git log --oneline ./projects/`
 
 <details>
+<summary><b>Drishti AI &nbsp;·&nbsp; <code>React · TypeScript · RAG · AI</code></b></summary>
+<br/>
+
+```text
+feat: AI-powered campus information assistant
+├── ✅ Interactive AI assistant interface for campus information
+├── ✅ User-focused kiosk UI designed for quick information access
+├── ✅ Responsive and accessible interface for campus users
+└── ✅ Designed frontend experience for RAG-powered responses
+```
+
+> 🎯 An AI-powered campus information assistant designed to help students and visitors quickly access relevant institutional information through an intuitive kiosk-based interface. I contributed to the frontend/UI design, focusing on a simple, accessible, and user-friendly experience for interacting with the RAG-powered assistant.
+
+</details>
+
+
+<details>
 <summary><b>📌 CivicGrid &nbsp;·&nbsp; <code>Python · FastAPI · React · PostgreSQL · Gemini · Docker</code></b></summary>
 <br/>
 
 ```text
-commit xxxxxxx  feat: AI-assisted municipal grievance platform
+commit a4f27k0  feat: AI-assisted municipal grievance platform
 ├── ✅ AI-powered grievance classification and department routing
 ├── ✅ End-to-end grievance lifecycle with SLA & resolution tracking
 ├── ✅ Citizen & officer portals with role-based access control

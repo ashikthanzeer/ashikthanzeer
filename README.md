@@ -85,7 +85,7 @@ class AshikMuhammedT:
 ## `$ git log --oneline ./projects/`
 
 <details>
-<summary><b>Drishti AI &nbsp;·&nbsp; <code>React · TypeScript · RAG · AI</code></b></summary>
+<summary><b>📌 Drishti AI &nbsp;·&nbsp; <code>React · TypeScript · RAG · AI</code></b></summary>
 <br/>
 
 ```text

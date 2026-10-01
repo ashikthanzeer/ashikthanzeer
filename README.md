@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Cycling tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=700&color=7EC8E3&center=true&vCenter=true&repeat=true&width=640&height=42&lines=B.Tech+CSE+%40+CET+%7C+CGPA%3A+9.66;BS+Data+Science+%40+IIT+Madras+%7C+CGPA%3A+8.63;Building+projects+%26+learning+every+day+%F0%9F%9A%80" alt="Roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=700&color=7EC8E3&center=true&vCenter=true&repeat=true&width=640&height=42&lines=B.Tech+CSE+%40+CET+%7C+CGPA%3A+9.66;BS+Data+Science+%40+IIT+Madras+%7C+CGPA%3A+8.63;Building+projects+%26+learning+every+day" alt="Roles"/>
 
 <br/>
 
@@ -106,7 +106,7 @@ feat: AI-powered campus information assistant
 <br/>
 
 ```text
-commit a4f27k0  feat: AI-assisted municipal grievance platform
+feat: AI-assisted municipal grievance platform
 ├── ✅ AI-powered grievance classification and department routing
 ├── ✅ End-to-end grievance lifecycle with SLA & resolution tracking
 ├── ✅ Citizen & officer portals with role-based access control
@@ -123,7 +123,7 @@ commit a4f27k0  feat: AI-assisted municipal grievance platform
 <br/>
 
 ```
-commit b7d42f8  feat: KEAM Monitor cloud deployment
+feat: KEAM Monitor cloud deployment
 ├── ✅ Real-time KEAM website change detection
 ├── ✅ Interactive Telegram bot with multi-user subscriptions
 ├── ✅ Intelligent notifications with state persistence
@@ -139,7 +139,7 @@ commit b7d42f8  feat: KEAM Monitor cloud deployment
 <br/>
 
 ```
-commit a3f9c21  feat: student productivity platform
+feat: student productivity platform
 ├── ✅ Pomodoro timer with custom session lengths
 ├── ✅ Streak tracking & deadline reminders
 ├── ✅ Notification support
@@ -155,7 +155,7 @@ commit a3f9c21  feat: student productivity platform
 <br/>
 
 ```
-commit b7d2e84  feat: JEE Main & KEAM score calculator
+feat: JEE Main & KEAM score calculator
 ├── ✅ Computes marks directly from response sheets
 ├── ✅ Automated score calculation & result analysis
 └── ✅ Intuitive UI for uploading data and viewing scores
@@ -170,7 +170,7 @@ commit b7d2e84  feat: JEE Main & KEAM score calculator
 <br/>
 
 ```
-commit c1a5f63  feat: personal & group expense manager
+feat: personal & group expense manager
 ├── ✅ Trip expense sharing & auto bill-splitting
 ├── ✅ Dashboards for monitoring spending patterns
 └── ✅ Multi-participant group expense management

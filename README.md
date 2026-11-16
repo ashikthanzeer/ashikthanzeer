@@ -85,6 +85,53 @@ class AshikMuhammedT:
 ## `$ git log --oneline ./projects/`
 
 <details>
+<summary><b>📌 Accordly &nbsp;·&nbsp; <code>Next.js · TypeScript · Prisma · PostgreSQL · PayPal · AI</code></b></summary>
+<br/>
+
+```text
+feat: AI-powered scope-to-cash management platform
+├── ✅ AI-powered agreement analysis and scope extraction
+├── ✅ Evidence-backed client change request classification
+├── ✅ Versioned change proposals with deterministic pricing
+└── ✅ PayPal invoicing and payment reconciliation
+```
+
+> 🎯 An AI-powered Scope-to-Cash platform designed to help freelancers and agencies manage agreements, identify scope creep, and convert additional requirements into approved, payable change orders. I contributed to full-stack development, focusing on AI-driven scope analysis, approval workflows, and PayPal integration.
+
+</details>
+
+<details>
+<summary><b>📌 ReFind &nbsp;·&nbsp; <code>Java · Java Swing · JDBC · MySQL · Maven · BCrypt</code></b></summary>
+<br/>
+
+```text
+feat: Centralized lost and found management system
+├── ✅ Java Swing interfaces for item reporting
+├── ✅ Database-backed lost and found item management
+├── ✅ BCrypt authentication and role-based access control
+└── ✅ Claim processing and moderation workflows
+```
+
+> 🎯 A centralized Lost and Found Management System designed to streamline item reporting, claiming, and moderation. I contributed to frontend interfaces and backend services, focusing on authentication, database integration, and claim processing.
+
+</details>
+
+\<details> \<summary>\<b>📌 Brightloop Subscription Management&nbsp;·&nbsp; \<code>Python · Odoo 19 · PostgreSQL · XML · Odoo ORM\</code>\</b>\</summary> \<br/>
+
+```text
+feat: Custom subscription management solution for Odoo 19
+├── ✅ Extended Odoo 19 ERP with subscription management
+├── ✅ Developed custom Odoo module and data models
+├── ✅ Implemented subscription business logic using Odoo ORM
+└── ✅ Built XML-based views for subscription workflows
+```
+
+> 🎯 A custom Subscription Management solution developed during the Odoo Hackathon to extend Odoo 19's ERP capabilities. Collaborated with a team to build a custom module, focusing on data models, business logic, and XML-based views.
+
+\</details>
+
+
+<details>
 <summary><b>📌 Drishti AI &nbsp;·&nbsp; <code>React · TypeScript · RAG · AI</code></b></summary>
 <br/>
 

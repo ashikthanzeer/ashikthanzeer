@@ -116,7 +116,9 @@ feat: Centralized lost and found management system
 
 </details>
 
-\<details> \<summary>\<b>📌 Brightloop Subscription Management&nbsp;·&nbsp; \<code>Python · Odoo 19 · PostgreSQL · XML · Odoo ORM\</code>\</b>\</summary> \<br/>
+<details>
+<summary><b>📌 Brightloop Subscription Management&nbsp;·&nbsp; <code>Python · Odoo 19 · PostgreSQL · XML · Odoo ORM</code></b></summary> 
+<br/>
 
 ```text
 feat: Custom subscription management solution for Odoo 19
@@ -128,7 +130,7 @@ feat: Custom subscription management solution for Odoo 19
 
 > 🎯 A custom Subscription Management solution developed during the Odoo Hackathon to extend Odoo 19's ERP capabilities. Collaborated with a team to build a custom module, focusing on data models, business logic, and XML-based views.
 
-\</details>
+</details>
 
 
 <details>
